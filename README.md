@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas Vindas ao meu perfil 🫀
 
-<!--
-**AndersonGTR34/AndersonGTR34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meus nome e Anderson
 
-Here are some ideas to get you started:
+-Estou estudando Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvenmdo na linguagem JavaScript
+
+-Utilizo esse espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos
+
+### Voce entrar em contato comigo 📫
+00001097439495sp@al.educacao.sp.gov.br
+
+@andersongtr019 (segue noix la no insta 😘)
+
+![](https://media1.tenor.com/m/oIpemVMSKWwAAAAC/r34-jdm.gif)

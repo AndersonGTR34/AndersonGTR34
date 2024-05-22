@@ -6,9 +6,9 @@ Meus nome e Anderson
 
 -Estou me desenvolvenmdo na linguagem JavaScript
 
--Utilizo esse espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Voce entrar em contato comigo 📫
+### Você entrar em contato comigo 📫
 00001097439495sp@al.educacao.sp.gov.br
 
 @andersongtr019 (segue noix la no insta 😘)
